@@ -4,7 +4,7 @@
 
 [https://kenko-san.com/unity-fade/](https://kenko-san.com/unity-fade/)
 
-様から頂きました。
+様から頂きました。<br>
 大変役立っております！
 
 ### change point
@@ -18,7 +18,7 @@
 FadeManager.FadeIn(1.5f);
 ```
 
-###フェードアウト
+### フェードアウト
 ```
 FadeManager.FadeOut("GameOverScene", 3f);
 ```
